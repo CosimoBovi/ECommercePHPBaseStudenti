@@ -149,3 +149,6 @@ In sintesi, il codice HTML crea il piè di pagina con il nome dell'azienda, un c
 
 ---
 
+# PHP - Include e Require
+
+https://www.w3schools.com/php/php_includes.asp
