@@ -147,3 +147,5 @@ Questo codice HTML rappresenta la struttura del piè di pagina nella pagina "foo
 
 In sintesi, il codice HTML crea il piè di pagina con il nome dell'azienda, un collegamento al sito e un collegamento "Home". Le classi Bootstrap vengono utilizzate per definire lo stile e la disposizione del piè di pagina.
 
+---
+
